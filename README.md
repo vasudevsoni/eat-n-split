@@ -2,13 +2,13 @@
 
 <p><strong>Eat-n-Split</strong> is a React.js application designed to simplify splitting bills among friends or group members. It provides an intuitive interface to input expenses and calculates the amount each person owes or is owed, making group outings hassle-free.</p>
 
-<hr>
+
 
 <h2>🌐 Live Demo</h2>
 
 <p>A live version of Eat-n-Split can be found <a href="https://vasudevsoni.github.io/eat-n-split">here</a>. <!-- Replace with actual link if hosted --></p>
 
-<hr>
+
 
 <h2>📚 Table of Contents</h2>
 <ul>
@@ -18,7 +18,7 @@
   <li><a href="#contributing">Contributing</a></li>
 </ul>
 
-<hr>
+
 
 <h2 id="features">✨ Features</h2>
 <ul>
@@ -28,7 +28,7 @@
   <li><strong>Responsive Design:</strong> Optimized for seamless use on both desktop and mobile devices.</li>
 </ul>
 
-<hr>
+
 
 <h2 id="installation">⚙️ Installation</h2>
 <ol>
@@ -48,7 +48,7 @@ cd eat-n-split
   </li>
 </ol>
 
-<hr>
+
 
 <h2 id="usage">🚀 Usage</h2>
 <ul>
@@ -57,7 +57,7 @@ cd eat-n-split
   <li><strong>Balance Overview:</strong> Track who owes what and settle payments with ease.</li>
 </ul>
 
-<hr>
+
 
 <h2 id="contributing">🤝 Contributing</h2>
 <p>Contributions are welcome! To contribute:</p>
@@ -75,6 +75,6 @@ git push origin feature/your-feature
   <li><strong>Open a pull request.</strong></li>
 </ol>
 
-<hr>
+
 
 <p>Enjoy hassle-free bill splitting with <strong>Eat-n-Split</strong>! 💸</p>
